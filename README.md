@@ -13,8 +13,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/akxyverse/certifications?style=for-the-badge&color=8b5cf6&label=size)
 ![Stars](https://img.shields.io/github/stars/akxyverse/certifications?style=for-the-badge&color=ddd6fe)
 
-### Proof, not just claims.
-### A verified showcase of every certification earned — real credentials, real dates, real links.
+### 🏛️ The Achievement Gallery
+### Proof, not just claims — a verified showcase of every certification earned, real credentials, real dates, real links.
 
 </div>
 
