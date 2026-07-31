@@ -119,7 +119,7 @@ Version Control · Cloud ML · Databases
 | [Microsoft Azure Machine Learning for Data Scientists](./Certificates/Microsoft-Azure-ML-for-Data-Scientists-Coursera-2024.pdf) | Coursera (Microsoft-authorized) | Feb 2024 | ID `CAHS2AT4S49X` · [Verify ↗](https://coursera.org/verify/CAHS2AT4S49X) | `Azure ML` `Cloud` `Data Science` |
 | [SQL (Basic)](./Certificates/SQL-Basic-HackerRank-2026.pdf) | HackerRank | May 2026 | ID `31F67476DF1C` | `SQL` `Databases` |
 | [Nestlé E-Learning — Sustainability](./Certificates/Nestle-Sustainability-ELearning-2024.pdf) | Nestlé Connect | 2024 | — | `Sustainability` `Professional Development` |
-| [Certificate of Appreciation — NBA & NAAC Peer Visit](./Certificates/NBA-NAAC-Certificate-of-Appreciation-DYPIT.pdf) | Dr. D.Y. Patil Institute of Technology | Date not specified on certificate | — | `Institutional Contribution` |
+| [Certificate of Appreciation — NBA & NAAC Peer Visit](./Certificates/NBA-NAAC-Certificate-of-Appreciation-DYPIT.pdf) | Dr. D.Y. Patil Institute of Technology | — | — | `Institutional Contribution` |
 
 > The last entry is a recognition/appreciation certificate, not a technical skill credential — included for completeness, categorized separately below.
 
@@ -190,12 +190,6 @@ timeline
 1. **Verifying a credential?** Every entry in the [Certificate Gallery](#-certificate-gallery) links directly to the issuer's verification page where one exists.
 2. **Starting a new certification?** It goes in [`In Progress`](<./In Progress>) with a target date.
 3. **Finished one?** It moves to [`Completed`](./Completed), the PDF goes in [`Certificates`](./Certificates), and this README's gallery gets updated — ready to reference from [Career Hub](https://github.com/akxyverse/career-hub).
-
-## 🗺 Roadmap — What's Next
-
-- 🟡 SQL (Intermediate/Advanced) — HackerRank
-- 🟡 Power BI / Tableau official certification
-- 🟡 A formal cloud certification (Azure Data Fundamentals or equivalent)
 
 ## ➡️ Recommended Next Repository
 

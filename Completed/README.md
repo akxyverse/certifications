@@ -8,6 +8,6 @@
 | Microsoft Azure Machine Learning for Data Scientists | Coursera | Feb 2024 |
 | SQL (Basic) | HackerRank | May 2026 |
 | Nestlé E-Learning — Sustainability | Nestlé Connect | 2024 |
-| Certificate of Appreciation — NBA & NAAC Peer Visit | Dr. D.Y. Patil Institute of Technology | Not specified |
+| Certificate of Appreciation — NBA & NAAC Peer Visit | Dr. D.Y. Patil Institute of Technology | — |
 
 Full gallery with credential links and skills: see the [main README](../README.md#-certificate-gallery). Original PDFs: [`Certificates`](../Certificates).
