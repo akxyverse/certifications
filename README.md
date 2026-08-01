@@ -117,16 +117,16 @@ Version Control · Cloud ML · Databases · Programming · Data Analytics
 |---|---|---|---|---|
 | [Introduction to Git](./Certificates/Introduction-to-Git-Microsoft-Learn-2024.pdf) | Microsoft Learn | Aug 2024 | [Verify ↗](https://learn.microsoft.com/en-us/users/akashyadav-0350/achievements/print/aenlz5r7) | `Git` `Version Control` |
 | [Microsoft Azure Machine Learning for Data Scientists](./Certificates/Microsoft-Azure-ML-for-Data-Scientists-Coursera-2024.pdf) | Coursera (Microsoft-authorized) | Feb 2024 | ID `CAHS2AT4S49X` · [Verify ↗](https://coursera.org/verify/CAHS2AT4S49X) | `Azure ML` `Cloud` `Data Science` |
-| [SQL (Basic)](./Certificates/SQL-Basic-HackerRank-2026.pdf) | HackerRank | May 2026 | ID `31F67476DF1C` | `SQL` `Databases` |
-| Python (Basic) | HackerRank | May 2026 | [Verify ↗](https://www.hackerrank.com/certificates/34145c3ba516) | `Python` |
-| SQL (Intermediate) | HackerRank | May 2026 | [Verify ↗](https://www.hackerrank.com/certificates/1a39a6cc9846) | `SQL` `Databases` |
+| [SQL (Basic)](./Certificates/SQL-Basic-HackerRank-2026.pdf) | HackerRank | May 2026 | ID `31F67476DF1C` · [Verify ↗](https://www.hackerrank.com/certificates/31f67476df1c) | `SQL` `Databases` |
+| [Python (Basic)](./Certificates/Python-Basic-HackerRank-2026.png) | HackerRank | May 2026 | ID `34145C3BA516` · [Verify ↗](https://www.hackerrank.com/certificates/34145c3ba516) | `Python` |
+| [SQL (Intermediate)](./Certificates/SQL-Intermediate-HackerRank-2026.png) | HackerRank | May 2026 | ID `1A39A6CC9846` · [Verify ↗](https://www.hackerrank.com/certificates/1a39a6cc9846) | `SQL` `Databases` |
 | [Deloitte Australia — Data Analytics Job Simulation](./Certificates/Deloitte-Australia-Data-Analytics-Forage-2025.pdf) | Forage | Jun 2025 | ID `3buuzEe5PDMz4f79x` | `Data Analytics` |
 | [Tata Group — GenAI Powered Data Analytics Job Simulation](./Certificates/Tata-Group-GenAI-Data-Analytics-Forage-2025.pdf) | Forage | Jun 2025 | ID `k7dE7vtkDMHHRHho9` | `Data Analysis` `Data Visualization` `GenAI` |
 | [Accenture North America — Data Analytics and Visualization Job Simulation](./Certificates/Accenture-North-America-Data-Analytics-Forage-2024.pdf) | Forage | Aug 2024 | ID `CnHiw8uXzWcfvh6Lq` | `Data Analytics` `Data Visualization` |
 | [Nestlé E-Learning — Sustainability](./Certificates/Nestle-Sustainability-ELearning-2024.pdf) | Nestlé Connect | 2024 | [Verify ↗](https://nestle.thetalent.games/sar/index.html?authId=83da0840-9037-11ef-9b94-a1441de5f825) | `Sustainability` `Professional Development` |
 | [Certificate of Appreciation — NBA & NAAC Peer Visit](./Certificates/NBA-NAAC-Certificate-of-Appreciation-DYPIT.pdf) | Dr. D.Y. Patil Institute of Technology | — | — | `Institutional Contribution` |
 
-> The last entry is a recognition/appreciation certificate, not a technical skill credential — included for completeness, categorized separately below. The two HackerRank rows without a linked filename don't have a PDF on file yet (credential verified directly via issuer).
+> The last entry is a recognition/appreciation certificate, not a technical skill credential — included for completeness, categorized separately below.
 
 ## 🗺 Learning Timeline
 
@@ -187,7 +187,7 @@ timeline
 </td>
 <td width="25%" align="center" valign="top">
 
-🧾<br>**[Certificates](./Certificates)**<br><sub>8 PDFs on file · 2 verified via issuer link</sub>
+🧾<br>**[Certificates](./Certificates)**<br><sub>10 certificate files on file</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
