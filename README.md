@@ -84,22 +84,22 @@ A simple, honest system anyone can copy for their own certification tracking.
 <tr>
 <td width="25%" align="center">
 
-### 5
+### 10
 **Certificates Earned**
 
 </td>
 <td width="25%" align="center">
 
-### 4
+### 5
 **Platforms**
-Microsoft · Coursera · HackerRank · Nestlé
+Microsoft · Coursera · HackerRank · Nestlé · Forage
 
 </td>
 <td width="25%" align="center">
 
-### 3
+### 5
 **Skill Domains**
-Version Control · Cloud ML · Databases
+Version Control · Cloud ML · Databases · Programming · Data Analytics
 
 </td>
 <td width="25%" align="center">
@@ -118,10 +118,15 @@ Version Control · Cloud ML · Databases
 | [Introduction to Git](./Certificates/Introduction-to-Git-Microsoft-Learn-2024.pdf) | Microsoft Learn | Aug 2024 | [Verify ↗](https://learn.microsoft.com/en-us/users/akashyadav-0350/achievements/print/aenlz5r7) | `Git` `Version Control` |
 | [Microsoft Azure Machine Learning for Data Scientists](./Certificates/Microsoft-Azure-ML-for-Data-Scientists-Coursera-2024.pdf) | Coursera (Microsoft-authorized) | Feb 2024 | ID `CAHS2AT4S49X` · [Verify ↗](https://coursera.org/verify/CAHS2AT4S49X) | `Azure ML` `Cloud` `Data Science` |
 | [SQL (Basic)](./Certificates/SQL-Basic-HackerRank-2026.pdf) | HackerRank | May 2026 | ID `31F67476DF1C` | `SQL` `Databases` |
+| Python (Basic) | HackerRank | May 2026 | [Verify ↗](https://www.hackerrank.com/certificates/34145c3ba516) | `Python` |
+| SQL (Intermediate) | HackerRank | May 2026 | [Verify ↗](https://www.hackerrank.com/certificates/1a39a6cc9846) | `SQL` `Databases` |
+| Deloitte Australia — Data Analytics Job Simulation | Forage | Jun 2025 | ID `3buuzEe5PDMz4f79x` | `Data Analytics` |
+| Tata Group — GenAI Powered Data Analytics Job Simulation | Forage | Jun 2025 | ID `k7dE7vtkDMHHRHho9` | `Data Analysis` `Data Visualization` `GenAI` |
+| Accenture North America — Data Analytics and Visualization Job Simulation | Forage | Aug 2024 | ID `CnHiw8uXzWcfvh6Lq` | `Data Analytics` `Data Visualization` |
 | [Nestlé E-Learning — Sustainability](./Certificates/Nestle-Sustainability-ELearning-2024.pdf) | Nestlé Connect | 2024 | — | `Sustainability` `Professional Development` |
 | [Certificate of Appreciation — NBA & NAAC Peer Visit](./Certificates/NBA-NAAC-Certificate-of-Appreciation-DYPIT.pdf) | Dr. D.Y. Patil Institute of Technology | — | — | `Institutional Contribution` |
 
-> The last entry is a recognition/appreciation certificate, not a technical skill credential — included for completeness, categorized separately below.
+> The last entry is a recognition/appreciation certificate, not a technical skill credential — included for completeness, categorized separately below. Rows without a linked filename don't have a PDF on file yet (credential verified directly via issuer).
 
 ## 🗺 Learning Timeline
 
@@ -131,7 +136,12 @@ timeline
     Feb 2024 : Microsoft Azure ML for Data Scientists (Coursera)
     2024 : Nestlé Sustainability E-Learning
     Aug 2024 : Introduction to Git (Microsoft Learn)
+                : Accenture North America Job Simulation (Forage)
+    Jun 2025 : Deloitte Australia Job Simulation (Forage)
+                : Tata Group GenAI Data Analytics Job Simulation (Forage)
     May 2026 : SQL (Basic) (HackerRank)
+                : Python (Basic) (HackerRank)
+                : SQL (Intermediate) (HackerRank)
 ```
 
 ## 🧰 Skills & Technologies Gained
@@ -144,6 +154,7 @@ timeline
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </td>
@@ -153,6 +164,8 @@ timeline
 
 ![Sustainability](https://img.shields.io/badge/Sustainability-2e7d32?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data%20Science-8b5cf6?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-6d28d9?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-ddd6fe?style=flat-square&logoColor=black)
 
 </td>
 </tr>
@@ -169,12 +182,12 @@ timeline
 </td>
 <td width="25%" align="center" valign="top">
 
-✅<br>**[Completed](./Completed)**<br><sub>5 finished</sub>
+✅<br>**[Completed](./Completed)**<br><sub>10 finished</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
 
-🧾<br>**[Certificates](./Certificates)**<br><sub>5 PDFs on file</sub>
+🧾<br>**[Certificates](./Certificates)**<br><sub>5 PDFs on file · 5 verified via issuer link</sub>
 
 </td>
 <td width="25%" align="center" valign="top">
